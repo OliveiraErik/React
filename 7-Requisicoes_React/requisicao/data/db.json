@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "d6a9",
+      "name": "mouse",
+      "price": "129.99"
+    },
+    {
+      "id": "9ad7",
+      "name": "Teclado",
+      "price": "200"
+    },
+    {
+      "id": "a72d",
+      "name": "Suporte de Mic",
+      "price": "22"
+    },
+    {
+      "id": "9537",
+      "name": "Teclado",
+      "price": "22"
+    },
+    {
+      "id": "87f7",
+      "name": "Teclado",
+      "price": "22"
+    }
+  ]
+}
